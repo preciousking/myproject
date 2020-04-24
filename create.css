@@ -1,0 +1,165 @@
+
+body{
+background-color:white;
+padding: 0;
+margin: 0;
+color: rgb(60, 97, 5);
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    
+    margin: 0 0 25px 0; 
+    height: 50px; 
+    padding: 5px;  
+}
+header ul{
+float:right ;
+list-style: none;
+}
+header ul li{
+display :inline ;
+padding-left: 15px;
+}
+header h2{
+float :left ;
+color: white;
+}
+header a{text-decoration:none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:whitesmoke;
+    font-size: large;
+    }
+header a:hover{color:greenyellow;
+    
+}
+.up{
+    text-align: center;
+    font-size: x-large;
+    color: white;
+}
+span{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.up a{
+    background-color:rgb(216, 214, 209);
+    padding: 10px 10px;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+    font-size: px;
+    margin-top: 50px;
+}
+.up a:hover{color:rgb(60, 97, 5);
+}
+.book{
+    background-image: url(4.jpeg);
+    background-size: cover;
+    padding-bottom: 60px;
+    margin: auto;
+}
+.center{
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+.look{
+    display: flex;
+    flex-direction: row;
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.look img{
+    float:right;
+    width: 750px;
+    height: 350px;
+}
+.see{
+    width: 50%;
+    padding: 25px;
+    
+    text-align: center;
+}
+.see a{
+    background-color: rgb(202, 194, 194);
+    border-radius: 5px;
+    padding: 10px 15px;
+    border: 0;
+    text-decoration: none;
+    color:rgb(250, 250, 250);
+    
+}
+.see a:hover{color:rgb(60, 97, 5);
+}
+.he{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+    
+
+}
+.he img{
+    float: left;
+    width: 700px;
+    height: 400px;
+}
+.him{
+    width: 50%;
+    padding: 25px;
+    text-align: center;
+    
+}
+.him a{
+    background-color: rgb(202, 194, 194);
+    border-radius: 5px;
+    padding: 10px 15px;
+    border: 0;
+    text-decoration: none;
+    color:rgb(250, 250, 250);
+}
+.him a:hover{color:rgb(35, 56, 4);
+}
+footer{
+    height: 90px;
+    background-color: rgba(119, 238, 103, 0.87);
+    text-align: center;
+    line-height: 30px;
+}
+footer p{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+}
+.run{
+    text-align: center;
+    margin-bottom: 70px;
+    background-color: rgb(96, 168, 67);
+    padding-top: 15px;
+
+}
+.run h4{
+    font: weight 700;
+    font-size: xx-large;
+    margin-bottom: 10px;
+
+}
+.run p{
+    font-weight: 400;
+}
+.run button{
+    background-color: rgb(228, 218, 218);
+    border-radius: 5px;
+    padding: 10px 15px;
+    border: 0;
+}
+.run input{
+    padding: 10px 15px;
+    border: 0;
+    background-color: rgb(233, 238, 232);
+}
+#she{
+    background-color: rgb(96, 168, 67);
+    
+}
